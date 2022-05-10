@@ -1,0 +1,73 @@
+{
+  "name": "Michael Obele",
+  "type": "personal",
+  "bio": "Cool Tech Guy from around the side",
+  "avatar": "https://github.com/Michael-Obele.png",
+  "links": [
+    {
+      "name": "Follow me on GitHub",
+      "url": "https://github.com/Michael-Obele",
+      "icon": "github"
+    },
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/Dev_Obele",
+      "icon": "twitter"
+    },
+    {
+      "name": "Follow me on LinkedIn",
+      "url": "https://www.linkedin.com/in/michael-amachree-1b71b8210/",
+      "icon": "linkedin"
+    }
+  ],
+  "milestones": [
+    {
+      "title": "I received my first programming certificate",
+      "date": "Oct 2020",
+      "icon": "Graduation-Hat",
+      "color": "blue",
+      "description": "Programming for Everybody (Getting Started with Python). Coursera",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/3QWLL77BQNF4"
+    },
+    {
+      "title": "Obtained a new certificate",
+      "date": "Nov 2020",
+      "icon": "Graduation-Hat",
+      "color": "blue",
+      "description": "Python Data Structures. Coursera",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/LJ3EVWX2V4GH"
+    },
+    {
+      "title": "I ventured into the web and obtained my first web certificate",
+      "date": "Nov 2020",
+      "icon": "Graduation-Hat",
+      "color": "blue",
+      "description": "HTML, CSS, and Javascript for Web Developers. Coursera",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/8A3TTMFY49VL"
+    },
+    {
+      "title": "JavaScript Cert: freeCodeCamp",
+      "date": "April 2021",
+      "icon": "Graduation-Hat",
+      "color": "grey",
+      "description": "JavaScript Algorithms and Data Structures",
+      "url": "https://freecodecamp.org/certification/michael_amachree/javascript-algorithms-and-data-structures"
+    },
+    {
+      "title": "Obtained a new certificate",
+      "date": "Oct 2021",
+      "icon": "Graduation-Hat",
+      "color": "blue",
+      "description": "Python Programming: A Concise Introduction. Coursera",
+      "url": "https://coursera.org/share/fdb053f2a8a7ed5f60eeb46885203e3a"
+    },
+    {
+      "title": "Responsive Web Design: freeCodeCamp",
+      "date": "Dec 2021",
+      "icon": "Graduation-Hat",
+      "color": "grey",
+      "description": "Responsive Web Design",
+      "url": "https://freecodecamp.org/certification/michael_amachree/responsive-web-design"
+    }
+  ]
+}
